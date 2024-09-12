@@ -49,6 +49,7 @@ Use the search bar at the top of the page to filter notes by title or content. T
 ## Contact
 For any inquiries, feel free to reach out:
 
+Instagram : @coding108 https://www.instagram.com/coding108/
 GitHub: yashswag22
 Email: gauravkrpla@gmail.com
 
