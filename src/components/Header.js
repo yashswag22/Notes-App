@@ -3,7 +3,7 @@ import React from 'react';
 
 const Header = ({ onAddNote, searchQuery, setSearchQuery }) => (
   <header style={headerStyle}>
-    <h1>My Notes</h1>
+    <h1> NoteNest </h1>
     <div style={headerControlsStyle}>
       <input
         type="text"
